@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rose Baloyi
 - 👀 I’m interested in Backend Development and Database
-- 🌱 I’m currently learning Software Development
+- 🌱 I’m currently a Software Development student
 - 💞️ I’m looking to collaborate on Technology companies
 - 📫 How to reach me rosebaloyi97@gmail.com
 
